@@ -47,3 +47,4 @@ VSCode相关快捷键与技巧个人收藏
 
 ## 参考
 - https://medium.com/react-native-training/vscode-for-react-native-526ec4a368ce
+- MS官方tips: https://github.com/Microsoft/vscode-tips-and-tricks
