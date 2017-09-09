@@ -5,6 +5,7 @@ VSCode相关快捷键与技巧个人收藏
 #### 重构代码
 * 上下移动一行：Alt+Up 或 Alt+Down
 * 向上向下复制一行：Shift+Alt+Up或Shift+Alt+Down
+* 删除当前行: CMD + Shift + K
 * 跳转到定义处：F12
 * 定义处缩略图：查看浏览而不跳转过去Alt+F12
 * 列出所有的引用：Shift+F12
@@ -19,15 +20,21 @@ VSCode相关快捷键与技巧个人收藏
 * 整个文件夹中查找 Ctrl+Shift+F
 * 查找文件 Ctrl+P
 * 代码反选到文件 Ctrl+Shift+E
+* 选中当前行: Alt + L
 
 #### 显示
 * 侧边栏显/隐：Ctrl+B
 * 预览markdown: Ctrl+Shift+V
 * 代码格式化：Shift+Alt+F
+* 标签显示：Cmd+Option+K(需要配合Bookmark插件)
 
 #### 注释
 * 多行注释: Shift+Alt+A
 * 生成注释文档：Control+Alt+D两次(需要)
+
+#### 文件
+* 最近打开的文件: Ctrl + R(可以删除)
+* 查找当前代码所在的文件： CMD + Shift + E
 
 ## 命令面板
 输入快捷键Ctrl+P后:
@@ -42,6 +49,7 @@ VSCode相关快捷键与技巧个人收藏
 
 
 ## 相关插件安装
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [Document this](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight): 任务中可搜索List hilighted annotations
 - [React Native Tool](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native)
